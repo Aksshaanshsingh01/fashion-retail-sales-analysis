@@ -62,7 +62,13 @@ The final dashboard was built in Google Sheets and includes:
 
 ### Dashboard Preview
 
-_Add the dashboard screenshot here._
+### Dashboard Preview
+
+![Fashion Retail Sales Dashboard](dashboard/dashboard.png)
+
+The dashboard summarizes revenue by product, monthly revenue trends, payment-method performance, and the top 10 customers by revenue.
+
+![Full Dashboard](dashboard/dashboard_full.png)
 
 ## Key Insights
 
@@ -82,19 +88,20 @@ These findings are based on the simulated dataset and should not be treated as r
 fashion-retail-sales-analysis/
 │
 ├── README.md
+├── code.ipynb
+├── Fashion_Retail_Sales.csv
 │
 ├── data/
-│   └── Fashion_Retail_Sales_Clean.xlsx
+│   ├── Fashion_Retail_Sales_Clean.csv
+│   └── Fashion_Retail_Sales_Clean (1).xlsx
 │
 ├── sql/
-│   └── analysis_queries.sql
+│   ├── analysis_queries.sql
+│   └── fashion_sales.sql
 │
-├── dashboard/
-│   └── dashboard_screenshot.png
-│
-└── insights/
-    └── business_insights.md
-```
+└── dashboard/
+    ├── dashboard.png
+    └── dashboard_full.png
 
 ## How to Reproduce the Analysis
 
