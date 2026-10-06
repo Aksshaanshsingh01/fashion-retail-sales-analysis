@@ -62,13 +62,13 @@ The final dashboard was built in Google Sheets and includes:
 
 ### Dashboard Preview
 
-### Dashboard Preview
-
 ![Fashion Retail Sales Dashboard](dashboard/dashboard.png)
 
 The dashboard summarizes revenue by product, monthly revenue trends, payment-method performance, and the top 10 customers by revenue.
 
 ![Full Dashboard](dashboard/dashboard_full.png)
+
+## Key Insights
 
 ## Key Insights
 
