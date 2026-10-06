@@ -143,4 +143,3 @@ The main focus was on:
 
 **Akshaansh Singh**
 
-Computer Science graduate interested in Data Analytics, Data Engineering and automation.
